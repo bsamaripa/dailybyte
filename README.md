@@ -1,2 +1,2 @@
-# dailybyte
-Solutions to The Daily Byte problemshttps://thedailybyte.dev/
+# Daily Byte Solutions
+Solutions to [The Daily Byte](https://thedailybyte.dev/) problems
